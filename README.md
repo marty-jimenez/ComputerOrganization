@@ -1,2 +1,3 @@
-# ComputerOrganization-ECE-366-
-ECE 366 at the University of Illinois at Chicago
+# Computer Organization
+### U. of Illinois, Chicago
+### ECE 366: Spring 2020
